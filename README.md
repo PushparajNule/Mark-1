@@ -1,4 +1,4 @@
-# Mark-1
+# README.md
 - 👋 Hi, I’m @PushparajNule
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning HTML,CSS,JS
