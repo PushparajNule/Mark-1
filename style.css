@@ -1,0 +1,9 @@
+body {
+    background-image : url("/storage/emulated/0/Pictures/batman.png");
+    background-size : cover;
+    text-align : center;
+}
+
+#h1 {
+    font-family : sans-serif;
+}
