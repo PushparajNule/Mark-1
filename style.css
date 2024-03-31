@@ -1,8 +1,11 @@
 body  {
-    background-size : cover;
     text-align : center;
 }
 
 #h1 {
     font-family : sans-serif;
+}
+
+img {
+    background-size : cover;
 }
