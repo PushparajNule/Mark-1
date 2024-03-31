@@ -1,11 +1,9 @@
 body  {
     text-align : center;
+    background-size : cover;
 }
 
 #h1 {
     font-family : sans-serif;
 }
 
-img {
-    background-size : cover;
-}
