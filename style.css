@@ -1,6 +1,6 @@
 body  {
     text-align : center;
-    background-image:(url='Properties/batman.png');
+    background-image:url=('Properties/batman.png');
     background-size : cover;
 }
 
