@@ -1,11 +1,12 @@
 body  {
     text-align : center;
-    background-image:url=('../Properties/batman.png');
-    height: 100vh;
-    background-size : cover;
 }
 
 #h1 {
     font-family : sans-serif;
 }
 
+img {
+    height: 100vh;
+    background-size : cover;
+}
