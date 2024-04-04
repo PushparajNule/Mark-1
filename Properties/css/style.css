@@ -4,7 +4,7 @@
 
 body {
   display : flex;
-  justify-content : center;
+  align-items: center;
 }
 
 .img {
@@ -12,7 +12,4 @@ body {
     height: 700px;
     background: url(./Properties/batman.png);
     background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
