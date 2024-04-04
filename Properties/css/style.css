@@ -6,7 +6,8 @@ body {
   text-align : center;
 }
 
-.img {
+.img { 
+    height : 100hv;
     background: url(./Properties/batman.png);
     background-size: cover;
     align-items : center;
