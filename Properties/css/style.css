@@ -7,7 +7,7 @@ body {
 }
 
 .img {
-    background-image : url("https://pushparajnule.github.io/batman.png");
+    background-image : url("Properties/batman.png");
     height: 700px;
     width:100%;
     background-size:cover;
