@@ -6,11 +6,12 @@ body {
   text-align : center;
 }
 
-.img { 
-    height : 500px;
+.img {
+    margin-top: 70px;
+    height: 700px;
     background: url(./Properties/batman.png);
     background-size: cover;
-    align-items : center;
-    justify-content : center;
-    display : flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
