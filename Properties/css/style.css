@@ -9,8 +9,6 @@ body {
 .img {
     background-image : url("https://pushparajnule.github.io/batman.png");
     height: 700px;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width:100%;
+    background-size:cover;
 }
