@@ -4,11 +4,8 @@
 
 body {
   text-align : center;
-}
-
-.img {
-    background-image : url("Properties/batman.png");
-    height: 700px;
-    width:100%;
-    background-size:cover;
+  background-image : url("Properties/batman.png");
+  height: 700px;
+  width:100%;
+  background-size:cover;
 }
