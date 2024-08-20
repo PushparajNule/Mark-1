@@ -1,7 +1,7 @@
 # README.md
 - 👋 Hi, I’m @PushparajNule
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML,CSS,JS,REACT,Angular,Golang,Kotlin
 - 💞️ I’m looking to collaborate in future for educational purposes 
 - 📫 How to reach me-gmail: pushparajnule011@gmail.com
 - ✨Instagram: @pushparajnule
