@@ -6,7 +6,7 @@
 - 📫 How to reach me-gmail: pushparajnule011@gmail.com
 - ✨Instagram: @pushparajnule
 - ⚡ Fun fact: I Watch Anime
-- 🌐 WebSite: https://pushparajnule.github.io/Mark-1/
+- 🌐 WebSite: https://pushparajnule.github.io/PushparajNule-Portfolio/
 <!---
 PushparajNule/PushparajNule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
